@@ -43,8 +43,8 @@
     "typescript": "^3.0.1"
   },
   "peerDependencies": {
-    "tslint": "^5.x",
-    "typescript": "^2.x || ^3.x"
+    "tslint": "^5.x || ^6.x",
+    "typescript": "^2.x || ^3.x || ^4.x"
   },
   "scripts": {
     "clean": "rimraf dist",
